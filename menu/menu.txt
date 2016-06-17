@@ -1,0 +1,5 @@
+image menu/menu_bg.png 0 0
+button start 20 100
+button scores 20 150
+button exit 20 200
+text Shooterest 30 10

@@ -1,0 +1,3 @@
+image menu/menu_bg2.png 0 0
+button back 20 100
+text Ganaste 30 10
